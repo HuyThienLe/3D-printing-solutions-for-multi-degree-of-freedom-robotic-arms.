@@ -37,3 +37,6 @@ ros2 run doosan_printing_app doosan_printer_node
 6. Khi muốn dừng, hãy ấn **STOP** (dừng hẳn) hoặc **PAUSE** (tạm dừng).
 
 ---
+
+## Link video
+https://www.tiktok.com/@leehuythien/video/7644434038433778964
